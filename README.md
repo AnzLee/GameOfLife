@@ -10,7 +10,7 @@ Cocos Creator实现
 预览地址: [请用手机打开](http://www.dayexchange.cn) 
 
 截图：
-![生命游戏主界面截图](IMG_7504.jpg)
+<img src="https://gitee.com/AnzLee/GameOfLife/raw/main/IMG_7504.jpg" width="100" height="200" alt="生命游戏主界面截图"/><br/>
 
 #### 软件架构
 Cocos Creator 3.x
