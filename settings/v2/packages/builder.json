@@ -1,0 +1,13 @@
+{
+  "splash-setting": {
+    "displayWatermark": false,
+    "clearColor": {
+      "x": 0.6588235294117647,
+      "y": 0.6588235294117647,
+      "z": 0.6588235294117647,
+      "w": 1
+    },
+    "totalTime": 1000,
+    "url": "/Users/liliangzhe/cocosProjects/GameOfLife-Conway/assets/resources/images/life.png"
+  }
+}
