@@ -9,6 +9,8 @@ Cocos Creator实现
 
 预览地址: [请用手机打开](http://www.dayexchange.cn) 
 
+码云地址: [码云地址](https://gitee.com/AnzLee/GameOfLife)
+
 截图：
 <img src="https://gitee.com/AnzLee/GameOfLife/raw/main/IMG_7504.jpg" width="100" height="200" alt="生命游戏主界面截图"/><br/>
 
